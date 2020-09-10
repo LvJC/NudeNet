@@ -65,6 +65,7 @@ python fastDeploy-file_client.py --dir PATH_TO_FOLDER --ext jpg
 ```bash
 # Tested with tensorflow/ tensorflow-gpu == 1.14
 pip install --upgrade nudenet
+# if failed to install, pls use `conda install progressbar2`
 ```
 
 **Classifier Usage**:
